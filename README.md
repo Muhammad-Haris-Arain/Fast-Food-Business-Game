@@ -65,8 +65,6 @@ If you want to improve this Fast Food Business Game Database Project made in JAV
 [<img align="left" alt="TechnicalFaraz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [linkedin]: https://www.linkedin.com/in/haris-arain793
-[youtube]: https://www.youtube.com/channel/UCwO7fKd11Bg8YsL3bSPdcWQ
-[facebook]: https:/
-[instagram]: https://www.instagram.com/technicalfaraz/
-[linkedin]: https://www.linkedin.com/in/technicalfaraz/
+[facebook]: https://www.facebook.com/fahad.iqbal.906638
+[twitter]:  https//https://www.twitter.com/HARISAr93481109?s=08
 
