@@ -56,7 +56,7 @@ If you want to improve this Fast Food Business Game Database Project made in JAV
 
 <br>
 
-### You can contact us at <a href="mailto:contact@technicalfaraz.com">Contact@TechnicalFaraz.com</a>
+### You can contact us at <a href="https://www.linkedin.com/in/haris-arain793">Contact@LinkedIn @ Muhammad Haris Arain</a>
 
 ### Connect with me:
 
