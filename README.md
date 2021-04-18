@@ -8,9 +8,9 @@ This game made using Eclipse IDE and GUI developed using Eclipse windows builder
 If you want to play the game then check out the folder named <a href="https://github.com/Technical-Faraz/Fast-Food-Business-Game/tree/master/Play%20this%20Game">"play this game"</a> OR <a href="https://github.com/Technical-Faraz/Fast-Food-Business-Game/tree/master/Fast%20Food%20Business%20Game">"Fast Food Business Game"</a> to play the game but you need to install oracle database to start this game.
 
 ### :small_blue_diamond:Team Members of this project
+### <a href="https://github.com/Muhammad-Haris-Arain">Muhammad Haris Arain</a><br>
 ### <a href="https://github.com/Technical-Faraz">Faraz Ahmed</a><br>
 ### <a href="https://github.com/Noor-Ahmed-12">Noor Ahmed Shaikh</a><br>
-### <a href="https://github.com/Muhammad-Haris-Arain">Muhammad Haris Arain</a><br>
 ### <a href="https://github.com/Ritik786">Ritik Advani</a><br>
 <br> 
 
@@ -64,9 +64,9 @@ If you want to improve this Fast Food Business Game Database Project made in JAV
 [<img align="left" alt="TechnicalFaraz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="TechnicalFaraz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[website]: https://technicalfaraz.com/
-[twitter]: https://twitter.com/TechnicalFaraz5
+[linkedin]: https://www.linkedin.com/in/haris-arain793
 [youtube]: https://www.youtube.com/channel/UCwO7fKd11Bg8YsL3bSPdcWQ
-[facebook]: https://www.facebook.com/technicalfaraz/
+[facebook]: https:/
 [instagram]: https://www.instagram.com/technicalfaraz/
 [linkedin]: https://www.linkedin.com/in/technicalfaraz/
+
